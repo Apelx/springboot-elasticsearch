@@ -16,7 +16,7 @@
 
     <properties>
         <java.version>1.8</java.version>
-        <hutool-core.version>5.3.8</hutool-core.version>
+        <hutool-core.version>5.8.19</hutool-core.version>
         <fastjson.version>1.2.62</fastjson.version>
     </properties>
 
